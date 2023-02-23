@@ -1,2 +1,12 @@
-
+.user-info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .user-info img {
+      margin-right: 10px;
+    }
+    .additional-info {
+      display: none;
+    }
 /* Your CSS Code here. */
